@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Llyonnel
+- 👀 I’m interested in various things
+- 🌱 I’m currently learning coding
