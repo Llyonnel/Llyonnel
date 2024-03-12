@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Llyonnel
-- 👀 I’m interested in various things
-- 🌱 I’m currently learning coding
+- 👀 I’m interested various things, listing it here could take a long time.
+- 🌱 I’m currently creating little websites and learning to code
